@@ -1,0 +1,33 @@
+div{
+    text-align: center;
+    margin: 40px;
+    
+}
+h1{
+    text-align: center;
+}
+#grey{
+    background-color: grey;
+    display: inline-block;
+    padding: 40px;
+
+}
+
+#white{
+    background-color: white;
+    display: inline-block;
+    padding: 40px;
+
+}
+#blue{
+    background-color: blue;
+    display: inline-block;
+    padding: 40px;
+
+}
+#yellow{
+    background-color: yellow;
+    display: inline-block;
+    padding: 40px;
+
+}
